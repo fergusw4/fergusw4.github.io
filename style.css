@@ -12,7 +12,7 @@ nav {
   left: 0px;
 }
 
-nav a, nav a:link, nav a:active, nav a:visited {
+nav .opt, nav .opt:link, nav .opt:active, nav .opt:visited {
   color: #f3f3f3;
   font: normal 20px times;
   float: right;
