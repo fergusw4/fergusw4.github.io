@@ -22,8 +22,8 @@ nav .menu a, nav .menu a:link, nav .menu a:active, nav .menu a:visited {
 
 #textlogo {
   width: auto;
-  height: 40px;
-  padding: 10px;
+  height: 20px;
+  padding: 20px;
   float: left;
 }
 
@@ -58,7 +58,7 @@ body {
 header {
   width: auto;
   height: 350px;
-  background: #ffffff src="./images//images/waves.png" no-repeat right top;
+  background: #ffffff src="/images/waves.png" no-repeat right top;
   text-align: center;
 }
 
