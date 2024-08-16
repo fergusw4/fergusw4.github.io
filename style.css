@@ -257,30 +257,37 @@ h3 {
 
 #product-c-text .button {
     width: 100%;
+    color: #1f1f1f;
     background: #ffde67;
     text-align: center;
     padding: 20px;
     border-radius: 10px;
     font: bold 25px times;
     transition-duration: .4s;
+    text-decoration: none;
+    margin: 20px;
 }
 #product-c-text .button:active {
     width: 100%;
+    color: #1f1f1f;
     background: #ffde67;
     text-align: center;
     padding: 20px;
     border-radius: 10px;
     font: bold 25px times;
     transition-duration: .4s;
+    text-decoration: none;
 }
 #product-c-text .button:hover {
     width: 100%;
+    color: #1f1f1f;
     background: #ffd747;
     text-align: center;
     padding: 20px;
     border-radius: 10px;
     font: bold 25px times;
     transition-duration: .4s;
+    text-decoration: none;
 }
 
 
