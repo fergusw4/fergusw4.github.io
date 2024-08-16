@@ -255,7 +255,7 @@ h3 {
     transition-duration: .4s;
 }
 
-#product-c-frame .button {
+#product-c-text .button {
     width: 100%;
     background: #ffde67;
     text-align: center;
@@ -264,7 +264,7 @@ h3 {
     font: bold 25px times;
     transition-duration: .4s;
 }
-#product-c-frame .button:active {
+#product-c-text .button:active {
     width: 100%;
     background: #ffde67;
     text-align: center;
@@ -273,7 +273,7 @@ h3 {
     font: bold 25px times;
     transition-duration: .4s;
 }
-#product-c-frame .button:hover {
+#product-c-text .button:hover {
     width: 100%;
     background: #ffd747;
     text-align: center;
