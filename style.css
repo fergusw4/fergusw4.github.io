@@ -58,7 +58,7 @@ body {
 header {
   width: auto;
   height: 350px;
-  background: #ffffff url("https://fergusw4.github.io/images/waves.png") no-repeat right top;
+  background: #ffffff url("https://fergusw4.github.io/images/waves.png") no-repeat center;
   text-align: center;
 }
 
