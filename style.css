@@ -255,6 +255,34 @@ h3 {
     transition-duration: .4s;
 }
 
+#product-c-frame .button {
+    width: 100%;
+    background: #ffde67;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    font: bold 25px times;
+    transition-duration: .4s;
+}
+#product-c-frame .button:active {
+    width: 100%;
+    background: #ffde67;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    font: bold 25px times;
+    transition-duration: .4s;
+}
+#product-c-frame .button:hover {
+    width: 100%;
+    background: #ffd747;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    font: bold 25px times;
+    transition-duration: .4s;
+}
+
 
 #product-g-text-pic {
     width: 100%;
