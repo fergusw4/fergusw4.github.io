@@ -58,7 +58,6 @@ header {
   width: auto;
   height: 350px;
   background-image: src="./images//images/waves.png";
-  background-size: 100% auto;
   background-position: center;
   text-align: center;
 }
