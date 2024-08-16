@@ -58,7 +58,9 @@ header {
   width: auto;
   height: 350px;
   background: #909090;
-  background-image: src="/images/farm-pedals-the-screams-analog-octave-up_6_800x.jpg";
+  background-image: src="./images/farm-pedals-the-screams-analog-octave-up_6_800x.jpg";
+  background-size: 100% auto;
+  background-position: center;
   text-align: center;
 }
 
