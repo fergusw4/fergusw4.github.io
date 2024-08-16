@@ -20,6 +20,14 @@ nav > a, nav > a:link, nav > a:active, nav > a:visited {
   text-decoration: none;
 }
 
+nav ul li a, nav ul li a:link, nav ul li a:active, nav ul li a:visited {
+  color: #f3f3f3;
+  font: normal 20px times;
+  float: right;
+  padding: 20px;
+  text-decoration: none;
+}
+
 #textlogo {
   width: 500px;
   height: auto;
